@@ -124,7 +124,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  sass
+  kramdown
 
 BUNDLED WITH
    1.11.2
