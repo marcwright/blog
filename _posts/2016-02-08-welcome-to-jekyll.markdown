@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Why Fire Ready Aim?"
 date:   2016-02-08 15:29:23 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I've wanted to set-up Jekyll for a while to blog about my musical and development ramblings. I see a lot of similarities between the musical and development worlds.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Here is an article on [learning and failure][learning-and-failure]. It's a perfect metaphor for Fire Ready Aim.
 
-Jekyll also offers powerful support for code snippets:
+It tells a story of a pottery class that was split into two groups. One group would be graded on the quantity of what they produced and the other group would be graded on the quantity. So, group #1 worked to make one pot as perfect as possible, while group #2 focused on creating several. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The “moral” of the story is that the group that created 10 pots ended up making better ones than the group that focused on one. The quantity group learned from their mistakes and became better craftsmen.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+As a songwriter, I can relate to over-thinking. I’ve often spent too much time attempting to craft the perfect song instead of crafting ten and learning from my mistakes. I’m definitely a perfectionist (most of us are), sometimes against my own best interest. I will try to be ok with failure.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+Check out the [Marc's WDI Wordpress Blog][Marc's WDI Wordpress Blog].
+
+[Marc's WDI Wordpress Blog]: https://marcwrightmusic.wordpress.com/
+[learning-and-failure]: http://digitalsparkmarketing.com/uncategorizedlearning-from-failure/
