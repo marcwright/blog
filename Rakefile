@@ -5,6 +5,7 @@ require 'rbconfig'
 
 # rake post TITLE='hello, world'
 # rake drafts
+# bundle exec jekyll serve
 
 desc 'create a new draft post'
 task :post do
